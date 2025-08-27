@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Logo.jpg" alt="my logo" width="150px" height="150px"/>
+  <img src="./Logo.jpg" alt="my logo" width="250px" height="250px"/>
 
   <h2>Hi, I'm Mohammad Yazdani</h2>
   <h3>a Web Developer💻 & AI Content Creator🤖</h3>
