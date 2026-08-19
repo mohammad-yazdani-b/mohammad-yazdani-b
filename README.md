@@ -7,7 +7,7 @@
 <hr/>
 
 <h3>Tech Stack :</h3>
-<img src="[https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,npm,mysql,ai,git,github,vscode&perline=4](https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,next,nest,npm,mysql,ai,git,github,vscode&perline=5)"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,next,nest,npm,mysql,ai,git,github,vscode&perline=5"/>
 <br/>
 <hr/>
 <h3>socials :</h3>
